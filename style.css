@@ -1,0 +1,46 @@
+#main-body{
+    background-color: #1D49AD;
+    height: 100vh;
+}
+
+#white{
+    background-color: white;
+    width: 400px;
+    height: 400px;
+}
+
+.header-logo{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 7px;
+    margin-bottom: 12px;
+}
+
+.kit{
+    display: grid;
+    place-items: center;
+    width: 400px;
+    height: 400px;
+}
+
+.footer-logo{
+    padding-bottom: 20px;
+}
+
+.text-shadow{
+    color: white;
+    text-shadow: 8px 8px black,
+    6px 6px black,
+    3px 3px black;
+}
+
+.header{
+    font-size: 75px;
+}
+
+.kit-details{
+    font-size: 25px;
+    color: white;
+    margin: 25px 0 25px 0;
+    list-style: none;
+}
